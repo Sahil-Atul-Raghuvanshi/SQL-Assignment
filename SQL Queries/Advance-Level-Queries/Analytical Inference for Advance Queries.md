@@ -1,4 +1,4 @@
-Analytical Inference for Advance Queries
+## Analytical Inference for Advance Queries
 
 **Query 1: Select the campaigns with the highest and lowest budgets.**
 **Inference:** Identifying budget extremes helps assess resource allocation and potential impacts on campaign performance.
