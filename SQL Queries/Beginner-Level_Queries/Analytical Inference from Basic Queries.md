@@ -1,3 +1,5 @@
+## Analytical Inference for Basic Queries 
+
 **Query 1: Select all campaigns that are currently active.**
 **Inference:** Active campaigns indicate ongoing marketing efforts that can drive customer engagement and sales.
 
